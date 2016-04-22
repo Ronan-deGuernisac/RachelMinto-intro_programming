@@ -1,0 +1,1 @@
+puts "This error tells me that the variable has been accessed in the wrong scope, or that it doesn't exist at all."
