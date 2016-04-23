@@ -1,0 +1,2 @@
+puts "This error comes from not ending the if statement with the keyword end."
+puts "You can resolve the error by adding two end statements rather than one: one to close the if statement and one to close the method."
