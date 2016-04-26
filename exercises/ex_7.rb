@@ -1,0 +1,1 @@
+puts "The major difference is that a hash is a key/value pair while an array is indexed."

@@ -1,0 +1,1 @@
+puts "I will probably stick with the main Ruby docs for now, but it looks like the devdocs.io site has a nice Rails documentation. The lefthand column set up is easy to use."
